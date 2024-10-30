@@ -1,12 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, Shawn!");
+﻿int a = 5;
+int b = 6;
 
-string friend1 = "      Bill     ";
-string friend2 = "Alice and Alice";
-string friends = $"My friends are {friend1.Trim()} and {friend2}";
+int c = a + b;
+bool myTest = c > 10;
 
-Console.WriteLine(friends.Replace("Alice", "Charlie"));
-Console.WriteLine(friends.Contains("Alice"));
-Console.WriteLine(friends.ToUpper());
-Console.WriteLine(friends.Length);
-Console.WriteLine(friends.StartsWith("My "));
+if (myTest) {
+    Console.WriteLine("The answer is greater than 10");
+}
+    
