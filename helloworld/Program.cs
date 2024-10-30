@@ -1,10 +1,7 @@
-﻿int a = 5;
-int b = 6;
-
-int c = a + b;
-bool myTest = c > 10;
-
-if (myTest) {
-    Console.WriteLine("The answer is greater than 10");
+﻿for (int row = 1; row < 11; row++)
+{
+    for (char column = 'a'; column < 'k'; column++)
+    {
+        Console.WriteLine($"The cell is ({row}, {column})");
+    }
 }
-    

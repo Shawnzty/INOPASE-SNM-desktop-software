@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Tianyi Zheng\\.nuget\\packages\\": {}
+    "/Users/tianyi/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tianyi Zheng\\OneDrive - neuron.t.u-tokyo.ac.jp\\Documents\\zheng\\mywork\\codes\\INOPASE-SNM-desktop-software\\helloworld\\helloworld.csproj",
+      "projectUniqueName": "/Users/tianyi/Documents/Zheng/Work/INOPASE/codes/INOPASE-SNM-desktop-software/helloworld/helloworld.csproj",
       "projectName": "helloworld",
-      "projectPath": "C:\\Users\\Tianyi Zheng\\OneDrive - neuron.t.u-tokyo.ac.jp\\Documents\\zheng\\mywork\\codes\\INOPASE-SNM-desktop-software\\helloworld\\helloworld.csproj",
-      "packagesPath": "C:\\Users\\Tianyi Zheng\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tianyi Zheng\\OneDrive - neuron.t.u-tokyo.ac.jp\\Documents\\zheng\\mywork\\codes\\INOPASE-SNM-desktop-software\\helloworld\\obj\\",
+      "projectPath": "/Users/tianyi/Documents/Zheng/Work/INOPASE/codes/INOPASE-SNM-desktop-software/helloworld/helloworld.csproj",
+      "packagesPath": "/Users/tianyi/.nuget/packages/",
+      "outputPath": "/Users/tianyi/Documents/Zheng/Work/INOPASE/codes/INOPASE-SNM-desktop-software/helloworld/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Tianyi Zheng\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/tianyi/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -38,11 +38,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -64,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/8.0.8_1/libexec/sdk/8.0.108/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
