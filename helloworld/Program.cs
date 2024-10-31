@@ -1,7 +1,12 @@
-﻿for (int row = 1; row < 11; row++)
+﻿List<int> scores = [97, 92, 81, 60];
+
+// define the query expression
+IEnumerable<int> scoreQuery = 
+    from score in scores
+    where score > 80
+    select score;
+
+foreach (int i in scoreQuery)
 {
-    for (char column = 'a'; column < 'k'; column++)
-    {
-        Console.WriteLine($"The cell is ({row}, {column})");
-    }
+    Console.WriteLine(i + " ");
 }
