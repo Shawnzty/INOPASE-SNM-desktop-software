@@ -1,0 +1,5 @@
+/Users/tianyi/Documents/Zheng/Work/INOPASE/codes/INOPASE-SNM-desktop-software/bin/Release/net8.0/osx-arm64/publish/INOPASE-SNM-desktop-software.pdb
+/Users/tianyi/Documents/Zheng/Work/INOPASE/codes/INOPASE-SNM-desktop-software/bin/Release/net8.0/osx-arm64/publish/libAvaloniaNative.dylib
+/Users/tianyi/Documents/Zheng/Work/INOPASE/codes/INOPASE-SNM-desktop-software/bin/Release/net8.0/osx-arm64/publish/libHarfBuzzSharp.dylib
+/Users/tianyi/Documents/Zheng/Work/INOPASE/codes/INOPASE-SNM-desktop-software/bin/Release/net8.0/osx-arm64/publish/libSkiaSharp.dylib
+/Users/tianyi/Documents/Zheng/Work/INOPASE/codes/INOPASE-SNM-desktop-software/bin/Release/net8.0/osx-arm64/publish/INOPASE-SNM-desktop-software

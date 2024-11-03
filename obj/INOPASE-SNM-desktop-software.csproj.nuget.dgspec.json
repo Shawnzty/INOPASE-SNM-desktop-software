@@ -46,10 +46,6 @@
               "target": "Package",
               "version": "[11.1.0, )"
             },
-            "Avalonia.Diagnostics": {
-              "target": "Package",
-              "version": "[11.1.0, )"
-            },
             "Avalonia.Fonts.Inter": {
               "target": "Package",
               "version": "[11.1.0, )"
@@ -57,6 +53,12 @@
             "Avalonia.Themes.Fluent": {
               "target": "Package",
               "version": "[11.1.0, )"
+            },
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )",
+              "autoReferenced": true
             }
           },
           "imports": [
@@ -76,6 +78,11 @@
             }
           },
           "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/8.0.8_1/libexec/sdk/8.0.108/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "osx-arm64": {
+          "#import": []
         }
       }
     }
