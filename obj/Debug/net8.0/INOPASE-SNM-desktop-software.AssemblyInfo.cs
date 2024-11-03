@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("INOPASE-SNM-desktop-software")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5dbc5c341d49f09652a9b7b7ea285021f33516ae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a55b77d1b91f4f78366c5abbb3750be165a593a7")]
 [assembly: System.Reflection.AssemblyProductAttribute("INOPASE-SNM-desktop-software")]
 [assembly: System.Reflection.AssemblyTitleAttribute("INOPASE-SNM-desktop-software")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

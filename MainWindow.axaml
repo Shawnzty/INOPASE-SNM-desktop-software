@@ -5,5 +5,5 @@
         mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
         x:Class="INOPASE_SNM_desktop_software.MainWindow"
         Title="INOPASE_SNM_desktop_software">
-    Welcome to Avalonia!
+    Hello Avalonia!
 </Window>
